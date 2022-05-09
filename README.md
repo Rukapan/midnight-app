@@ -1,2 +1,2 @@
 # midnight-app
- Using Spotify Api
+App Url https://midnight-music-app-byaurk.netlify.app/
